@@ -5,8 +5,10 @@ Tour Africa while sitting at your computer!
 
 ## Requirements
 
-This game requires Node.js (JavaScript). Instructions to install Node.js
-are [here](https://nodejs.org/en/download/).
+1. This game requires Node.js (JavaScript) with `npm`.
+   Installation instructions for them are [here](https://nodejs.org/en/download/).
+
+2. Run `npm install` in the root directory to install all other requirements.
 
 ## How to play
 
