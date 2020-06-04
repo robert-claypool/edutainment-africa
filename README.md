@@ -10,4 +10,4 @@ are [here](https://nodejs.org/en/download/).
 
 ## How to play
 
-To do.
+Run `node index.js`
