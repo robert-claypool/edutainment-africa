@@ -16,7 +16,7 @@ async function main() {
         // Prompt couldn't be rendered in the current environment
         console.log("Error. Environment not supported.");
       } else {
-        // Something else when wrong
+        // Something else went wrong
         console.log("Error. Unable to continue.");
       }
     });
