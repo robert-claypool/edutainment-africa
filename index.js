@@ -32,6 +32,7 @@ async function main() {
     ]);
   } else {
     console.log("Good bye.");
+    return;
   }
 
   console.log(`${answer["country"]} is a great choice. Let's go!`);
